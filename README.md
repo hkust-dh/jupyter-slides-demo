@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/701209646.svg)](https://doi.org/10.5281/zenodo.15266849)
+
 # Turn Your Jupyter Notebook Into Interactive Presentation Slides Using Anaconda
 
 👉 **Data file**: [sample.ipynb](https://github.com/hkust-dh/jupyter-slides-demo/blob/main/sample.ipynb)
